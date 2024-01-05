@@ -4,4 +4,4 @@
 ***
 ### EDUCATION
 - University of Washington
-	-Undergraduate Electrical & Computer Engineering
+     Undergraduate Electrical & Computer Engineering
